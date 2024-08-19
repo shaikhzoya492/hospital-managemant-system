@@ -7,7 +7,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Signup Page</title>
-         <%@include file="component/allcss.jsp"%>
+         <%@include file="allcss.jsp"%>
          <style type="text/css"> 
             .paint-card{
                 box-shadow:0 0 10px 0 rgba(0,0,0,0.3);
@@ -15,7 +15,7 @@
         </style>
     </head>
     <body>
-         <%@include file="component/navbar.jsp"%>
+         <%@include file="navbar.jsp"%>
        <div class="container p-5">
 <div class="row">
 <div class="col-md-4 offset-md-4">
