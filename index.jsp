@@ -6,7 +6,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Index Page</title>
-        <%@include file="component/allcss.jsp"%>
+        <%@include file="allcss.jsp"%>
         <style type="text/css"> 
             .paint-card{
                 box-shadow:0 0 10px 0 rgba(0,0,0,0.3);
@@ -14,7 +14,7 @@
         </style>
     </head>
     <body>
-    <%@include file="component/navbar.jsp"%>
+    <%@include file="navbar.jsp"%>
    
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
@@ -117,6 +117,6 @@ Voluptatem, inventore</p>
     </div>
     </div>
     </div>
-        <%@include file="component/footer.jsp"%>  
+        <%@include file="footer.jsp"%>  
     </body>
 </html>
